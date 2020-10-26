@@ -1,6 +1,8 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios-new.png" />
 
-<blockquote align="center">“Não espere resultados brilhantes se suas metas não forem claras”!</blockquote>
+
+<blockquote align="center">“Não existe linha de chegada, a vitória está em se manter correndo”!</blockquote>
+
 
 <h1 align="center">
   🚀 Fundamentos React-Native 🚀
